@@ -1,0 +1,10 @@
+Optional installation
+______________________
+
+npm install bootstrap
+npm install sweetalert2
+npm install ngx-spinner
+npm install jwt-decode
+npm install angular-datatables
+npm install ngx-cookie-service localforage
+npm install --save-dev @types/localforage
